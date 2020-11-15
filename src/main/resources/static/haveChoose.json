@@ -1,0 +1,7 @@
+{"code":0,"msg":"","count":1,"data":
+[
+  {"class":"操作系统","score":4,"type":"理论课","teacher":"与海洋","classnum":"123","limitchoose":43,"havechoose":26,"canchoose":17,"classpostion":"旭日520"},
+  {"class":"系统操作","score":4,"type":"理论课","teacher":"与海洋","classnum":"123","limitchoose":43,"havechoose":26,"canchoose":17,"classpostion":"旭日520"},
+  {"class":"操作系统","score":4,"type":"理论课","teacher":"与海洋","classnum":"123","limitchoose":43,"havechoose":26,"canchoose":17,"classpostion":"旭日520"},
+  {"class":"系统操作","score":4,"type":"理论课","teacher":"与海洋","classnum":"123","limitchoose":43,"havechoose":26,"canchoose":17,"classpostion":"旭日520"}
+]}
